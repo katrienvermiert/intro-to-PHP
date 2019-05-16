@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+table{
+    margin-left: 10vw;
+    height: 50vh;
+    width: 80vw;
+}
+
+td{
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+.title{
+    font-size: 2em;
+    color: rgb(187, 187, 3);
+}
+
+.checked{
+    color:orange;
+}
+
+
