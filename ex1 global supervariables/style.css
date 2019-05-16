@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+h3, .title{
+    color: white;
+}
+
+input{
+    margin-top: 2px;
+}
+
+.submit{
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+table{
+    height: 50vh;
+    width: 98vw;
+}
+
+td{
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
